@@ -17,9 +17,13 @@
 - Ahmed Aboushady  
 - Andrew Farlow  
 
+**Note:** Fran will depart on **13 March**.
+
 ### LSHTM
 - Brendan Wren  
-- Ozan Gundogdu  
+- Ozan Gundogdu
+- 
+**Note:** Ozan will depart on **13 March**.
 
 ### MRC Gambia
 - Umberto D’Alessandro  
@@ -33,10 +37,10 @@
 - Matthew Hitchings  
 
 ### Côte d’Ivoire
-- Diallo Kanny  
+- Kanny Diallo  
 - Firmin Missa  
 
-**Note:** 
+**Note:** Kanny and Firmin will arrive on **xx March** and depart on **xx March**.
 
 ### Nigeria
 - Stella Smith  
