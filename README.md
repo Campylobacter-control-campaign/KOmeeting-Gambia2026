@@ -1,9 +1,15 @@
 
 # Campylobacter Control Campaign (CCC)
 
-![CCC logo](add link)
+<p align="left">
+  <img src="CCClogo.png" width="180" align="left" style="margin-right: 15px;">
+</p>
 
-## Kick-off Workshop – The Gambia  
+## Kick-off Workshop 
+MRC Unit, The Gambia at the London School of Hygeine and Tropical Medicine
+
+Fajara, the Gambia
+
 **10–16 March 2026**
 
 ---
@@ -22,7 +28,7 @@
 ### LSHTM
 - Brendan Wren  
 - Ozan Gundogdu
-- 
+ 
 **Note:** Ozan will depart on **13 March**.
 
 ### MRC Gambia
@@ -50,7 +56,30 @@
 
 ---
 
+## Workshop Objectives
+
+- Finalise harmonised multi-country sampling framework  
+- Align culture-dependent and metagenomic strategies  
+- Define genomic outputs required for vaccine design  
+- Clarify data governance (REDCap, EpiCollect, metadata harmonisation)  
+- Agree initial PhD project themes and supervision structure  
+- Define governance split (Core vs Scientific meetings)
+
+---
+
+## Expected Outcomes
+
+- Agreed sampling numbers and site distribution  
+- Defined data flow: field → lab → sequencing → analysis  
+- Vaccine-relevant genomic deliverables list  
+- REDCap database architecture confirmed  
+- Central protocol structure agreed  
+- Clear 6-month action plan with named leads
+
+---
+
 # Workshop Agenda
+*All talks are 15 minutes + 5 minutes discussion unless otherwise stated*
 
 ---
 
@@ -73,28 +102,22 @@
 | 09:00 | Coffee & arrival | — | — |
 | 09:30 | Host welcome | Umberto / Jahangir | Welcome to MRC |
 | 09:45 | CCC programme overview | Sam | Objectives & framing |
-| 10:00 | Week structure & outputs | Ben | Expected outcomes |
-| 10:05 | Sampling aims & estimates | Ben | "How many?" |
-| 10:20 | Sampling methods and outcoems from GETCampy | Fran | Transmission insights |
-| 10:40 | Gambia infrastructure | Jahangir | Feasibility |
-| 11:00 | Coffee break | — | — |
-| 11:30 | Building economic and cost effectiveness frameworks to support good local decision making | Andrew | Policy & economic context |
-| 11:50 | Metagenomics & MAGs: what can we realistically recover? | Matt | Sequencing outputs |
-| 12:10 | Côte d’Ivoire sampling plans | Kanny | Sampling overview |
-| 12:25 | Firmin Missa – Field implementation & student perspective (Côte d’Ivoire) | Firmin | On-the-ground sampling |
-| 12:40 | Nigeria sampling plans | Stella | Sampling overview |
-| 12:55 | Utibeima Udo Essiet – Student research focus (Nigeria) | Uti | Study objectives |
-| 13:10 | Implementation considerations | Henry Badji | Operational |
-| 13:25 | Lunch | — | Provided by MRC |
-| 14:15 | Vaccine strategy & genomic requirements | Brendan | Vaccine perspective |
-| 14:35 | Antigen priorities & strain considerations | Ozan | Vaccine targets |
-| 14:55 | Maximising value from collected samples | Matt | Sequencing strategy |
-| 15:15 | Local sequencing capacity & opportunities | Abdul | Infrastructure |
-| 15:35 | Laboratory systems & workflow integration | Benoit | Local lab processes |
-| 15:50 | REDCap databases & data governance | Mehrab | Data management |
-| 16:05 | Coffee break | — | — |
-| 16:15 | Practical sampling exercise (incl. EpiCollect demo) | Ben / Henry / Fran | Swabbing & metadata capture |
-| 17:30 | Close | — | — |
+| 10:00 | Week overview (5 min) | Ben | Structure & expected outputs |
+| 10:05 | Sampling methods & outcomes from GETCampy | Fran | Transmission insights |
+| 10:20 | Gambia infrastructure & feasibility | Jahangir | Operational context |
+| 10:35 | **Coffee break** | — | — |
+| 11:00 | Building economic and cost effectiveness frameworks to support good local decision making | Andrew | Policy & economic context |
+| 11:15 | Côte d’Ivoire sampling plans | Kanny | Sampling overview |
+| 11:30 | Firmin Missa – Field implementation & student perspective (Côte d’Ivoire) | Firmin | On-the-ground sampling |
+| 11:45 | Utibeima Udo Essiet – Student research focus (Nigeria) | Uti | Study objectives || 12:15 | Lunch | — | Provided by MRC |
+| 12:00 | Nigeria sampling plans | Stella | Sampling overview |
+| 13:00 | **Lunch** | — | Provided by MRC |
+| 14:00 | *Prayer* | — | — |  
+| 14:30 | Implementation considerations | Henry Badji | Operational |
+| 14:45 | Maximising value from collected samples | Matt | Sequencing strategy |
+| 15:00 | Sampling aims & estimates (incl. EpiCollect demo) | Ben | "How many?" |
+| 15:15 | Practical sampling exercise | Ben / Henry / Fran | Swabbing & metadata capture |
+| 16:45 | **Close** | — | — |
 | Evening | Group welcome dinner (Included) | — | Calypso Bar (Table for 17-20?) | Grant-funded |
 
 ---
@@ -104,10 +127,12 @@
 
 | Time | Activity | Lead | Notes |
 |------|----------|------|-------|
-| Early AM | Travel to Basse | — | All listed participants |
-| Morning | Field sampling walkthrough | MRC team | Sampling & cold chain |
-| Afternoon | Facility visit & logistics discussion | All | Storage & processing realities |
-| Late PM | Return to Fajara | — | Must allow Friday 12:00 talk |
+| 05:30 | Travel to Basse | — | All listed participants |
+| 12:00 | **Lunch at the MRC, Basse** | — | — | 
+| Afternoon | 3 visits to Northern River Region : 
+| | 1. Vet office | | 
+| | 2. clinic | | 
+| | 3. village | | 
 | Evening | Dinner at Basse site | — | Confirm locally |
 
 ---
@@ -117,11 +142,25 @@
 
 | Time | Activity | Lead | Notes |
 |------|----------|------|-------|
-| 12:00 | MRC seminar: What can genotyping studies tell us about the transmission of Campylobacter from farm to fork? | Fran | Fixed time |
-| 13:00 | Lunch | — | Provided by MRC |
-| 14:00 | Check on cultures from sampling exercise | — | lab check |
-| 15:30 | Discaussions | -- | -- |
-| Late PM | Departures | Fran & Ozan | — |
+| 05:30 | Travel to Fajara | — | — |
+| 12:00 | MRC seminar: *What can genotyping studies tell us about the transmission of Campylobacter from farm to fork?* | Fran | Fixed time |
+| 13:00 | **Lunch** | — | Provided by MRC |
+| 14:00 | *Prayer* | — | — |
+| 14:30 | Check on cultures from sampling exercise | — | lab check |
+| 15:30 | **Coffee break** | — | — |
+| 16:00 | Local sequencing capacity & opportunities | Benoit | Local lab processes |
+| 16:15 | Long read sequencing and local capacity builing for Nigeria and Cote d'Ivoire | Abdul | Infrastructure |
+| 16:30 | REDCap databases & data governance | Mehrab | Data management |
+| 16:45 | Source attribution | Ben | Genome analysis | 
+| 17:00 | Vaccine strategy & genomic requirements | Brendan | Vaccine perspective |
+| 17:15 | Antigen priorities & strain considerations | Ozan | Vaccine targets |
+| 17:30 | Programme integration & decisions (30 min) | Sam (Chair) |  
+| | - Sampling numbers confirmed? | |
+| | - Data flow agreed? | | 
+| | - Vaccine deliverables clarified? | | 
+| | - Protocol timeline agreed? | |  
+| | - Named leads for next steps | | 
+| Evening | Departures | Fran & Ozan |
 
 ---
 
@@ -162,3 +201,12 @@
 - Source attribution framework
 - Genomics-informed vaccine design
 - Capacity building and local sequencing
+
+---
+
+# AoB
+ 
+- Wastewater sampling 
+- Expanded chicken sampling
+- Henry PhD catchup
+- CCC PhD programme / cohort (including integration with other graduate studnet programmes, e.g. LSHTM, Swansea Univesity GEMS, OxAfrica, IOI)
