@@ -14,48 +14,6 @@ Fajara, the Gambia
 
 ---
 
-## Participants (In Person)
-
-### Oxford
-- Samuel Sheppard  
-- Ben Pascoe  
-- Frances Colles  
-- Ahmed Aboushady  
-- Andrew Farlow  
-
-**Note:** Fran will depart on **13 March**.
-
-### LSHTM
-- Brendan Wren  
-- Ozan Gundogdu
- 
-**Note:** Ozan will depart on **13 March**.
-
-### MRC Gambia
-- Umberto D’Alessandro  
-- Jahangir Hossain  
-- Abdul Sesay  
-- Henry Badji (+ coordination team)  
-- Benoit  
-- Mehrab  
-
-### Swansea
-- Matthew Hitchings  
-
-### Côte d’Ivoire
-- Kanny Diallo  
-- Firmin Missa  
-
-**Note:** Kanny and Firmin will arrive on **xx March** and depart on **xx March**.
-
-### Nigeria
-- Stella Smith  
-- Utibeima Udo Essiet  
-
-**Note:** Stella Smith and Utibeima Udo Essiet will arrive on **9 March** and depart on **16 March**.
-
----
-
 ## Workshop Objectives
 
 - Finalise harmonised multi-country sampling framework  
@@ -85,11 +43,6 @@ Fajara, the Gambia
 
 ## Day 1 – Tuesday 10 March  
 **Arrival – Banjul**
-
-| Time | Activity | Lead | Location | Notes |
-|------|----------|------|----------|-------|
-| All day | Arrivals & hotel check-in | — | Ocean Bay / local | — |
-| Evening | Informal recovery & catch-ups | — | Ocean Bay | Dinner not included |
 
 ---
 
@@ -160,7 +113,6 @@ Fajara, the Gambia
 | | - Vaccine deliverables clarified? | | 
 | | - Protocol timeline agreed? | |  
 | | - Named leads for next steps | | 
-| Evening | Departures | Fran & Ozan |
 
 ---
 
@@ -179,7 +131,6 @@ Fajara, the Gambia
 | Time | Activity | Notes |
 |------|----------|-------|
 | Morning | Optional visit to Kachikally Crocodile Park | Informal |
-| — | Departures | Kanny & Stella |
 
 ---
 
@@ -189,7 +140,6 @@ Fajara, the Gambia
 | Time | Activity | Notes |
 |------|----------|-------|
 | Daytime | Optional follow-up discussions | -- |
-| Evening | Departures | Late flights |
 
 ---
 
